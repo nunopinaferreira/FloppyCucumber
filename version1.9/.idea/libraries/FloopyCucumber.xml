@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FloopyCucumber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/versionok/build/FloopyCucumber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
